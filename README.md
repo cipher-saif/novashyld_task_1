@@ -541,6 +541,5 @@ All work documented in this repository was conducted exclusively within an isola
 
 Mohammed Saifuddin &nbsp;·&nbsp; Task 1 &nbsp;·&nbsp; April 2026
 
-*hrnovashyldtech@gmail.com*
 
 </div>
